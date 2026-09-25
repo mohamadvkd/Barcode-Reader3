@@ -1,0 +1,2 @@
+# Barcode-Reader3
+Flutter project created by KLENCOD IDE
